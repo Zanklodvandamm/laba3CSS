@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ec9a0"/><stop offset="1" stop-color="#1f9a74"/></linearGradient></defs>
+<rect width="120" height="120" rx="14" fill="url(#g)"/>
+<rect x="22" y="38" width="76" height="52" rx="8" fill="#fff"/><rect x="42" y="30" width="22" height="12" rx="3" fill="#fff"/><circle cx="60" cy="64" r="15" fill="none" stroke="#1f9a74" stroke-width="7"/>
+</svg>
